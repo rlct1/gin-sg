@@ -2,6 +2,11 @@
 For AIM2020 ECCV Extreme Image Inpainting Track 2 Semantic Guidance <br> 
 This is the Pytorch implementation of our Deep Generative Inpainting Network with Semantic Guidance (GIN-SG) for Extreme Image Inpainting. We have participated in AIM 2020 ECCV Extreme Image Inpainting Challenge. Our GIN is used for reconstructing a completed image with satisfactory visual quality from a randomly masked image. <br><br> 
 
+## Overview
+<p align='center'>  
+  <img src='examples/arc.png' width='768'/>
+</p>
+
 ## Example of Image Inpainting using our GIN-SG 
 - An example from the validation set of the AIM20 ECCV Extreme Image Inpainting Track 2 Semantic Guidance
 - (left: masked image, middle: segmentation map, right: our completed image) 
